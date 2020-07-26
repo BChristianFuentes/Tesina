@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log-in con Store Procedure", "Log-in con Store Procedure\Log-in con Store Procedure.csproj", "{E54F4351-D9EF-4A0E-A400-8911473F280F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorIP2", "InstaladorIP2\InstaladorIP2.vdproj", "{10282E60-D448-4E27-9DA7-005382799403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54F4351-D9EF-4A0E-A400-8911473F280F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54F4351-D9EF-4A0E-A400-8911473F280F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54F4351-D9EF-4A0E-A400-8911473F280F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54F4351-D9EF-4A0E-A400-8911473F280F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10282E60-D448-4E27-9DA7-005382799403}.Debug|Any CPU.ActiveCfg = Debug
+		{10282E60-D448-4E27-9DA7-005382799403}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
