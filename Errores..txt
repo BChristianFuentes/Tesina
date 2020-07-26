@@ -1,0 +1,24 @@
+Centurión:
+
+1. Evitar la edición de los DataGridView: listo.
+2. Colocar botón "Exportar" en los formularios pertinentes: listo.
+3. Crear formulario "Promedio general x curso": listo.
+4. Solucionar error del formulario "Agregar profesor" duplicado: listo.
+
+Benito:
+
+1. Incorporar errorProvider en los textBox pertinentes.
+2. Incorporar ODBC.
+3. Realizar informe del progreso de la aplicación.
+
+Gonzalo:
+
+1. Areglar botón "Modificar nota".
+2. Incorporar formulario "Promover de curso".
+
+Solucionados: Exe.
+
+dgv.allowdrop = false;
+dgv.allowusertoaddrows = false;
+dgv.allowuserdeleterow = false;
+dgv.readonly = true;
